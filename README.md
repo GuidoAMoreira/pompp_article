@@ -1,6 +1,6 @@
 This is the code to reproduce the results in the paper Presence-Only through Marked Point Process.
 
-The code can take very long to run. The pompp R package version used is in the pompp_0.0.0.9000 tarball (source package).
+The code can take very long to run. The pompp R package version used is in the pompp_0.0.0.9000 tarball (source package with compilation).
 
 ## Artificial data
 
